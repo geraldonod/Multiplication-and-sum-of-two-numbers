@@ -9,5 +9,7 @@ def product_or_sum(num1, num2):
         return num1 + num2 
     
 #ask user for input
+number1 = int(input("Enter the first integer: "))
+number2 = int(input("Enter the second integer: "))
 
 #print out result
