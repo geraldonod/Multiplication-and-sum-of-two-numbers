@@ -13,3 +13,5 @@ number1 = int(input("Enter the first integer: "))
 number2 = int(input("Enter the second integer: "))
 
 #print out result
+result = product_or_sum(number1, number2)
+print("Result:", result)
